@@ -1,0 +1,11 @@
+name: firebase_common_messaging
+description: A flutter package that provides a common interface for recieving firebase push notifications on mobile and web.
+version: 0.0.1
+homepage: https://github.com/fischerscode/Flutter-firebase_common_messaging
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  firebase_messaging: ^7.0.3
+  firebase: ^7.3.2
